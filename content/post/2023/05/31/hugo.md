@@ -4,7 +4,7 @@ description:
 date: 2023-05-31T08:42:48Z
 math: 
 license: 
-comments: true
+comments: false
 ---
 
 > 问题1：初始化git仓库时，显示“git”不是内外部命令或可运行的程序
